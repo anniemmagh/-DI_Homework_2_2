@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ a {
+    text-decoration: none;
+    color: rgb(0,113,133);
+    font-size: 20px;
+    padding: 1rem;
+}
+h1 {
+    color: rgb(13, 11, 11) ;
+    padding:1rem ;
+}
+h2 {
+    color: rgb(0,118,0);
+    padding: 1rem;
+}
+.heading_two {
+    color: black;
+    padding: 1rem;
+}
+.btn_one {
+ color: black;
+ background-color: rgb(255,216,20);
+ width: 90px;
+ height: 40px;
+ margin-left: 1rem;
+ transition: .3s ease;
+}
+.btn_one:hover {
+    color: rgb(255,216,20);
+    background-color: black;
+    cursor: pointer;
+}
