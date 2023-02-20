@@ -1,55 +1,54 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
- a {
-    text-decoration: none;
-    color: rgb(0,113,133);
-    font-size: 20px;
-    padding: 1rem;
-    
+a {
+  text-decoration: none;
+  color: rgb(0, 113, 133);
+  font-size: 20px;
+  padding: 1rem;
 }
 h1 {
-    color: rgb(13, 11, 11) ;
-    padding:1rem ;
+  color: rgb(13, 11, 11);
+  padding: 1rem;
 }
 h2 {
-    color: rgb(0,118,0);
-    padding: 1rem;
+  color: rgb(0, 118, 0);
+  padding: 1rem;
 }
 .heading_two {
-    color: black;
-    padding: 1rem;
+  color: black;
+  padding: 1rem;
 }
 .btn_one {
- color: black;
- background-color: rgb(255,216,20);
- width: 90px;
- height: 40px;
- margin-left: 1rem;
- font-size: 13px;
- font-weight: bold;
- transition: .3s ease;
+  color: black;
+  background-color: rgb(255, 216, 20);
+  width: 90px;
+  height: 40px;
+  margin-left: 1rem;
+  font-size: 13px;
+  font-weight: bold;
+  transition: 0.3s ease;
 }
 .btn_one:hover {
-    color: rgb(255,216,20);
-    background-color: black;
-    cursor: pointer;
+  color: rgb(255, 216, 20);
+  background-color: black;
+  cursor: pointer;
 }
 .btn_two {
-    color: black;
-    background-color: rgb(255, 164, 28);
-    width: 90px;
-    height: 40px;
-    margin-left: 1rem;
-    font-size: 13px;
-    font-weight: bold;
-    transition: .3s ease;
-   }
+  color: black;
+  background-color: rgb(255, 164, 28);
+  width: 90px;
+  height: 40px;
+  margin-left: 1rem;
+  font-size: 13px;
+  font-weight: bold;
+  transition: 0.3s ease;
+}
 
-   .btn_two:hover {
-    color: rgb(255, 164, 28);
-    background-color: black;
-    cursor: pointer;
+.btn_two:hover {
+  color: rgb(255, 164, 28);
+  background-color: black;
+  cursor: pointer;
 }
