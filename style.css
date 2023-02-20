@@ -8,6 +8,7 @@
     color: rgb(0,113,133);
     font-size: 20px;
     padding: 1rem;
+    
 }
 h1 {
     color: rgb(13, 11, 11) ;
@@ -27,10 +28,28 @@ h2 {
  width: 90px;
  height: 40px;
  margin-left: 1rem;
+ font-size: 13px;
+ font-weight: bold;
  transition: .3s ease;
 }
 .btn_one:hover {
     color: rgb(255,216,20);
+    background-color: black;
+    cursor: pointer;
+}
+.btn_two {
+    color: black;
+    background-color: rgb(255, 164, 28);
+    width: 90px;
+    height: 40px;
+    margin-left: 1rem;
+    font-size: 13px;
+    font-weight: bold;
+    transition: .3s ease;
+   }
+
+   .btn_two:hover {
+    color: rgb(255, 164, 28);
     background-color: black;
     cursor: pointer;
 }
